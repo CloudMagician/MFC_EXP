@@ -20,13 +20,17 @@
 #define ID_EXP5                         32782
 #define ID_EXP6                         32783
 #define ID_EXP7                         32784
+#define ID_3_32785                      32785
+#define ID_3_32786                      32786
+#define ID_EXP3_1                       32787
+#define ID_EXP3_2                       32788
 
 // Next default values for new objects
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        312
-#define _APS_NEXT_COMMAND_VALUE         32785
+#define _APS_NEXT_COMMAND_VALUE         32789
 #define _APS_NEXT_CONTROL_VALUE         1000
 #define _APS_NEXT_SYMED_VALUE           310
 #endif
