@@ -33,13 +33,31 @@
 #define ID_3_32786                      32786
 #define ID_EXP3_1                       32787
 #define ID_EXP3_2                       32788
+#define ID_4_HERMITE32789               32789
+#define ID_4_32790                      32790
+#define ID_4_32791                      32791
+#define ID_4_32792                      32792
+#define ID_EXP31                        32793
+#define ID_EXP4_1                       32794
+#define ID_EXP4_2                       32795
+#define ID_EXP4_3                       32796
+#define ID_EXP4_4                       32797
+#define ID_5_HERMITE32798               32798
+#define ID_5_32799                      32799
+#define ID_5_32800                      32800
+#define ID_5_32801                      32801
+#define ID_EXP5_1                       32802
+#define ID_EXP5_2                       32803
+#define ID_EXP5_3                       32804
+#define ID_EXP5_4                       32805
+#define ID_32806                        32806
 
 // Next default values for new objects
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        322
-#define _APS_NEXT_COMMAND_VALUE         32789
+#define _APS_NEXT_COMMAND_VALUE         32807
 #define _APS_NEXT_CONTROL_VALUE         1013
 #define _APS_NEXT_SYMED_VALUE           310
 #endif
