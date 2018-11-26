@@ -8,7 +8,6 @@
 #define IDR_MFCEXPTYPE                  130
 #define IDD_DIALOG_EXP3_1               317
 #define IDD_DIALOG_EXP3_2               320
-#define IDCANCEL                        1001
 #define IDC_STATIC_XYZ                  1008
 #define IDC_COMBO_XYZ                   1009
 #define IDC_EDITX                       1010
@@ -19,11 +18,6 @@
 #define ID_32772                        32772
 #define ID_EXP1                         32773
 #define ID_EXP2                         32774
-#define ID_32775                        32775
-#define ID_32776                        32776
-#define ID_32777                        32777
-#define ID_32778                        32778
-#define ID_32779                        32779
 #define ID_EXP3                         32780
 #define ID_EXP4                         32781
 #define ID_EXP5                         32782
