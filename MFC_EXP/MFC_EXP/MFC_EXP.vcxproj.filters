@@ -42,6 +42,9 @@
     <ClInclude Include="CDialogEXP3_2.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CDialogEXP5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MFC_EXP.cpp">
@@ -63,6 +66,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="CDialogEXP3_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDialogEXP5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

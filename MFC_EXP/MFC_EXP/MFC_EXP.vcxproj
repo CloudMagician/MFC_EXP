@@ -186,6 +186,7 @@
   <ItemGroup>
     <ClInclude Include="CDialogEXP3_1.h" />
     <ClInclude Include="CDialogEXP3_2.h" />
+    <ClInclude Include="CDialogEXP5.h" />
     <ClInclude Include="ChildView.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="MFC_EXP.h" />
@@ -197,6 +198,7 @@
   <ItemGroup>
     <ClCompile Include="CDialogEXP3_1.cpp" />
     <ClCompile Include="CDialogEXP3_2.cpp" />
+    <ClCompile Include="CDialogEXP5.cpp" />
     <ClCompile Include="ChildView.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="MFC_EXP.cpp" />
